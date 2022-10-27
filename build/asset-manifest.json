@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Digital-Visiting-card/static/css/main.d54e3020.css",
+    "main.js": "/Digital-Visiting-card/static/js/main.dc5af601.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/Digital-Visiting-card/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/Rectangle.png": "/Digital-Visiting-card/static/media/Rectangle.7c32438f48fb2510ecd1.png",
+    "index.html": "/Digital-Visiting-card/index.html",
+    "main.d54e3020.css.map": "/Digital-Visiting-card/static/css/main.d54e3020.css.map",
+    "main.dc5af601.js.map": "/Digital-Visiting-card/static/js/main.dc5af601.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/Digital-Visiting-card/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d54e3020.css",
+    "static/js/main.dc5af601.js"
+  ]
+}
